@@ -1,0 +1,7 @@
+# MCP Server Requirements
+mcp>=1.0.0
+
+# Core transcription dependencies (from requirements.txt)
+yt-dlp>=2025.12.8
+openai-whisper>=20250625
+imageio-ffmpeg>=0.6.0

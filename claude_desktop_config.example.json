@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "youtube-transcribe": {
+      "command": "python",
+      "args": ["C:/Users/User/Dropbox/bootcamp/nebius/server.py"],
+      "env": {}
+    }
+  }
+}
+
+
+
+
+
+
+
+
+

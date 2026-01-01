@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "youtube-transcribe": {
+      "command": "python",
+      "args": ["server.py"]
+    }
+  }
+}
