@@ -355,3 +355,13 @@ For issues or questions:
 
 **Happy transcribing! 🎙️**
 
+---
+
+## Developer
+
+**Developed by:** Shulamit Halberstadt
+
+**Contact:** halber.shu@gmail.com
+
+**GitHub:** [GitHub Profile](https://github.com/Shu6136713)
+
